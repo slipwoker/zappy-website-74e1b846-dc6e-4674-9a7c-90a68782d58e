@@ -1,0 +1,82 @@
+# רוח צפונית — Generative Engine Optimization Map
+
+> A band that offers multiple services, suggesting a professional music group that may provide live performances, event entertainment, or other music-related offerings. The exact nature of the services and the band's style or genre are not yet specified.
+
+---
+
+## Pages
+
+### בית
+https://-74e1b846.zappy5.app
+חברת בידור מוזיקלי שמביאה אנרגיה בלתי נשכחת לכל במה. הזמינו הופעה חיה מקצועית, מרגשת ומותאמת אישית שתהפוך את האירוע שלכם להצלחה מסחררת.
+
+### שירותים
+https://-74e1b846.zappy5.app/services
+מחפשים שירותי מוזיקה שיעשו את ההבדל? אצלנו תקבלו מגוון חבילות גמישות, הגברה מקצועית ורפרטואר עשיר. התאימו את הסאונד המושלם לחלום שלכם והזמינו עכשיו.
+
+### אודות
+https://-74e1b846.zappy5.app/about
+הסיפור של &#39;רוח צפונית&#39; מתחיל בתשוקה ליצור רגעים. צללו אל מאחורי הקלעים, פגשו את הנגנים וגלו איך אנחנו הופכים תווים לזיכרונות שמרגשים קהלים בכל פעם מחדש.
+
+### צור קשר
+https://-74e1b846.zappy5.app/contact
+אל תתנו לאירוע שלכם להישאר שקט. צרו איתנו קשר עוד היום, ספרו לנו על החזון שלכם, ונחזור אליכם עם הצעה מלהיבה שתגרום לכל אורח לזוז. בואו נתחיל לתכנן את החגיגה.
+
+### תודה - רוח צפונית
+https://-74e1b846.zappy5.app/thank-you
+רוח צפונית - תודה - רוח צפונית
+
+## Legal & Policy
+
+### Privacy Policy
+https://-74e1b846.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-74e1b846.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-74e1b846.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-74e1b846.zappy5.app/contact
+- Endpoint: https://-74e1b846.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About רוח צפונית
+A band that offers multiple services, suggesting a professional music group that may provide live performances, event entertainment, or other music-related offerings. The exact nature of the services and the band's style or genre are not yet specified.
+
+## Target Audience
+- חובבי אירועי מוזיקה
+- מתכנני אירועים עסקיים
+- מארגני חתונות
+
+## Industry
+Music & Entertainment
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-74e1b846.zappy5.app/sitemap.xml
+- Robots: https://-74e1b846.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-74e1b846.zappy5.app/llms-full.txt
