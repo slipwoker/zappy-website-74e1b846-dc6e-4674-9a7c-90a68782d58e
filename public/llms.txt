@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-74e1b846.zappy5.app
+https://example.com
 חברת בידור מוזיקלי שמביאה אנרגיה בלתי נשכחת לכל במה. הזמינו הופעה חיה מקצועית, מרגשת ומותאמת אישית שתהפוך את האירוע שלכם להצלחה מסחררת.
 
 ### שירותים
-https://-74e1b846.zappy5.app/services
+https://example.com/services
 מחפשים שירותי מוזיקה שיעשו את ההבדל? אצלנו תקבלו מגוון חבילות גמישות, הגברה מקצועית ורפרטואר עשיר. התאימו את הסאונד המושלם לחלום שלכם והזמינו עכשיו.
 
 ### אודות
-https://-74e1b846.zappy5.app/about
+https://example.com/about
 הסיפור של &#39;רוח צפונית&#39; מתחיל בתשוקה ליצור רגעים. צללו אל מאחורי הקלעים, פגשו את הנגנים וגלו איך אנחנו הופכים תווים לזיכרונות שמרגשים קהלים בכל פעם מחדש.
 
 ### צור קשר
-https://-74e1b846.zappy5.app/contact
+https://example.com/contact
 אל תתנו לאירוע שלכם להישאר שקט. צרו איתנו קשר עוד היום, ספרו לנו על החזון שלכם, ונחזור אליכם עם הצעה מלהיבה שתגרום לכל אורח לזוז. בואו נתחיל לתכנן את החגיגה.
 
 ### תודה - רוח צפונית
-https://-74e1b846.zappy5.app/thank-you
+https://example.com/thank-you
 רוח צפונית - תודה - רוח צפונית
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-74e1b846.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-74e1b846.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-74e1b846.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-74e1b846.zappy5.app/contact
-- Endpoint: https://-74e1b846.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Music & Entertainment
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-74e1b846.zappy5.app/sitemap.xml
-- Robots: https://-74e1b846.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-74e1b846.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
